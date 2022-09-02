@@ -1,0 +1,62 @@
+
+.result{
+    display: flex;
+    flex-wrap: wrap;
+}
+.h2{
+    background-color: black;
+    color:white;
+    width:auto ;
+    text-align: center;
+}
+.card{
+    background-image: linear-gradient(to right, #9f9c9c 0%, #2c2c2c 100%);
+    
+}
+.card:hover {
+    transform: scale(1.1);
+  }
+  
+  /* .img {
+    
+    width:  300px;
+    height: 300px;
+} */
+
+.h4{
+    color:white;
+    text-align: center;
+    padding:3px;
+}
+.button1{
+    padding:10px;
+}
+.image{
+    background-color: whitesmoke;
+    height: 100%;
+    padding-top: 10px;
+}
+.image img{
+  padding:20px;
+   align-content: center;
+   align-items: center;
+}
+.button{
+    padding:10px;
+    border-radius: 5px;
+    
+}
+.bg{
+    background-image: linear-gradient(to right, rgb(27, 29, 34),rgb(52, 51, 56));
+    padding: 20px;
+
+}
+.btm{
+    padding:10px;
+}
+.h1{
+    color:white;
+    text-align: center;
+    padding:3px;
+    background-color: black;
+}
